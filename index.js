@@ -36,7 +36,8 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🟢 Paying Rewards - Online"];
+const statusMessages = ["Playing 🟢 Paying Rewards - Online", "Watching Real Rewards 🚀"];
+
 
 
 let currentIndex = 0;
