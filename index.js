@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Verifying People..."];
+const statusMessages = ["Distributing Prizes.. 🚀 "];
 
 
 
